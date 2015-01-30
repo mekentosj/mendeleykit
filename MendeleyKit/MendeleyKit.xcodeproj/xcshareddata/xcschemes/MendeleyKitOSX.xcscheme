@@ -72,6 +72,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C421118F1A233AC7006C044C"
+            BuildableName = "MendeleyKitOSX.framework"
+            BlueprintName = "MendeleyKitOSX"
+            ReferencedContainer = "container:MendeleyKit.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
