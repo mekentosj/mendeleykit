@@ -16,4 +16,4 @@ profile
 MendeleyKit/Podfile.lock
 MendeleyKit/Pods/
 /Pods/
-
+*.xccheckout

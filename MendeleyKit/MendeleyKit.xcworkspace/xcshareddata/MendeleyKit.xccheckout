@@ -10,15 +10,23 @@
 	<string>MendeleyKit</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>561E5FB6E48E5819D1B54916D8CC8319988B3766</key>
+		<string>https://github.com/mekentosj/papers-mac.git</string>
 		<key>88451CE373A8483FBC0FDD215687D819CC4E9788</key>
 		<string>https://peter.schmidt@git.mendeley.com/scm/mob/mendeleysdk-objectivec.git</string>
+		<key>E1F5C01245038939AB58BC55BE2351D75FB96813</key>
+		<string>github.com:mekentosj/MTFoundation.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MendeleyKit/MendeleyKit.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>561E5FB6E48E5819D1B54916D8CC8319988B3766</key>
+		<string>../../..</string>
 		<key>88451CE373A8483FBC0FDD215687D819CC4E9788</key>
 		<string>../..</string>
+		<key>E1F5C01245038939AB58BC55BE2351D75FB96813</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://peter.schmidt@git.mendeley.com/scm/mob/mendeleysdk-objectivec.git</string>
@@ -28,6 +36,22 @@
 	<string>88451CE373A8483FBC0FDD215687D819CC4E9788</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1F5C01245038939AB58BC55BE2351D75FB96813</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>561E5FB6E48E5819D1B54916D8CC8319988B3766</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

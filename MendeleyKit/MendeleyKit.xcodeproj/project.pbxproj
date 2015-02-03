@@ -77,6 +77,8 @@
 		145C2E131A2CAB0E0005BFF6 /* MendeleyMockNetworkProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = C462886C19DB17F100127ECE /* MendeleyMockNetworkProvider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		145C2E141A2CAB0E0005BFF6 /* MendeleyKitTestsThreadHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = C462884119DB166B00127ECE /* MendeleyKitTestsThreadHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		145C2E151A2CAB0E0005BFF6 /* MendeleyKitTestBaseClass.h in Headers */ = {isa = PBXBuildFile; fileRef = C462883F19DB166B00127ECE /* MendeleyKitTestBaseClass.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BE18E75C1A7691CC0099007A /* MendeleyCancellableRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B387EE919ED59C500ACCBE1 /* MendeleyCancellableRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BE18E75D1A7691F30099007A /* MendeleyNSURLConnectionProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B387EDD19ED10D500ACCBE1 /* MendeleyNSURLConnectionProvider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C24E70A3E1A44058A40FBE96 /* libPods-MendeleyKitTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DEA9B99D5FE40BEB2C9E99F /* libPods-MendeleyKitTests.a */; };
 		C42111AD1A233FB9006C044C /* MendeleyReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = C42111AC1A233FB9006C044C /* MendeleyReachability.m */; };
 		C42111B01A233FE1006C044C /* MendeleyLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C42111AF1A233FE1006C044C /* MendeleyLoginViewController.m */; };
@@ -1064,6 +1066,8 @@
 				145C2E131A2CAB0E0005BFF6 /* MendeleyMockNetworkProvider.h in Headers */,
 				145C2E141A2CAB0E0005BFF6 /* MendeleyKitTestsThreadHelper.h in Headers */,
 				145C2E151A2CAB0E0005BFF6 /* MendeleyKitTestBaseClass.h in Headers */,
+				BE18E75C1A7691CC0099007A /* MendeleyCancellableRequest.h in Headers */,
+				BE18E75D1A7691F30099007A /* MendeleyNSURLConnectionProvider.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
