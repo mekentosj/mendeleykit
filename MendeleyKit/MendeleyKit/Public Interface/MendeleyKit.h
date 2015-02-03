@@ -311,6 +311,17 @@
  */
 
 /**
+ This method is only used when paging through a list of files on the server.
+ All required parameters are provided in the linkURL, which should not be modified
+
+ @param linkURL the full HTTP link to the file listings page
+ @param completionBlock returning array of files
+ @return a MendeleyTask object used for cancelling the operation
+ */
+- (MendeleyTask *)fileListWithLinkedURL:(NSURL *)linkURL
+                        completionBlock:(MendeleyArrayCompletionBlock)completionBlock;
+
+/**
    obtains a list of files for the first page.
    @param queryParameters the parameter set to be used in the request
    @param completionBlock returns the list of files if found
