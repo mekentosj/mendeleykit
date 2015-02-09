@@ -88,7 +88,7 @@
 		C42111B91A2340FB006C044C /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C42111B61A2340FB006C044C /* Security.framework */; };
 		C42111BA1A2340FB006C044C /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C42111B71A2340FB006C044C /* WebKit.framework */; };
 		C42111BD1A234111006C044C /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C42111BB1A234111006C044C /* CoreFoundation.framework */; };
-		C42111BE1A234111006C044C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C42111BC1A234111006C044C /* Foundation.framework */; };
+		C42111BE1A234111006C044C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C42111BC1A234111006C044C /* Foundation.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		C42111BF1A2341A9006C044C /* MendeleyReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = C42111AC1A233FB9006C044C /* MendeleyReachability.m */; };
 		C42111C01A2341A9006C044C /* MendeleyAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A134B519DADDD10069DB7A /* MendeleyAnnotation.m */; };
 		C42111C11A2341A9006C044C /* MendeleyCatalogDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A134B719DADDD10069DB7A /* MendeleyCatalogDocument.m */; };
